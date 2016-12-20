@@ -1,0 +1,1 @@
+目前最可行的方法就是基于Voronoi diagram方法 分析 stop-and-go waves 的产生机理之类的 

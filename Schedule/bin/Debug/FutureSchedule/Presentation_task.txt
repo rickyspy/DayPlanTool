@@ -1,0 +1,3 @@
+An investigation of Voronoi diagram in modeling pedestrian dynamics. Yao Xiao (肖尧)
+
+PPT做的差不多，但是关于怎么讲 还得再练习，再思考。 
