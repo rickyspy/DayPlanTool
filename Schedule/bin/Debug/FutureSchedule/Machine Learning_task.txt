@@ -1,7 +1,0 @@
-1. Andrew Ng 学习视频 1.5h per day 
-    目前正在： Week 3/10， Ex 1/8 。
- 
-2. 了解machine learning 的相关应用 
-
-3. 探讨动力学与 machine learning 结合的可能性
-    // 基于Voronoi cell of pedestrains 的 machine learning 
